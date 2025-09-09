@@ -19,4 +19,4 @@ The raw survey data was initially cleaned and filtered using **Power Query** to 
 -   **Power Query**: Used for data transformation, cleaning, and preparation.
 
 ## Dashboard Preview
-![Data Professional Survey Dashboard Preview](Data Professional Survey Breakdown.png)
+![Data Professional Survey Dashboard Preview](Data%20Professional%20Survey%20Breakdown.png)
