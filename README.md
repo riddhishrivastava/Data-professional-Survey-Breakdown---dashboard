@@ -5,7 +5,7 @@ This project presents a comprehensive analysis of a data professional survey, pr
 ## Key Findings
 -   **Average Salary Breakdown**: The dashboard provides a visual breakdown of average salaries by country, showing salary distribution across regions like the United States, India, and other areas.
 -   **In-demand Skills**: A treemap visualizes the most popular programming languages among data professionals, with Python, R, and SQL highlighted as top choices.
--   **Career and Job Satisfaction**: A set of gauge charts and bar graphs provides a quick view of key satisfaction metrics, including work-life balance and overall salary satisfaction.
+-   **Career and Job Satisfaction**: A set of gauge charts and bar graphs provides a quick view of key satisfaction metrics, including work-life balance and overall   salary satisfaction.
 
 ## Data Source & Preparation
 The raw survey data was initially cleaned and filtered using **Power Query** to remove irrelevant records, handle inconsistencies, and ensure a structured format for analysis.
